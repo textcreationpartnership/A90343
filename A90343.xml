@@ -1,0 +1,837 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Oxonii lachrymæ, Rachell weeping for her children, or, a patheticall relation of the present grievances of the late famous University of Oxford. Wherein you have her unjust sufferings manifested. The authours of her miseries characterised. And, the ejected loyalists nominated. / Presented in a letter from an Oxford schollar (not yet exil'd) to his friend a gentleman of Grayes-Inne.</title>
+            <author>Philanax Anonomous.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90343</idno>
+            <idno type="STC">Wing O998</idno>
+            <idno type="STC">Thomason E555_17</idno>
+            <idno type="STC">ESTC R204631</idno>
+            <idno type="EEBO-CITATION">99864096</idno>
+            <idno type="PROQUEST">99864096</idno>
+            <idno type="VID">116315</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90343)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116315)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 86:E555[17])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Oxonii lachrymæ, Rachell weeping for her children, or, a patheticall relation of the present grievances of the late famous University of Oxford. Wherein you have her unjust sufferings manifested. The authours of her miseries characterised. And, the ejected loyalists nominated. / Presented in a letter from an Oxford schollar (not yet exil'd) to his friend a gentleman of Grayes-Inne.</title>
+                  <author>Philanax Anonomous.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the year, 1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: Philanax Anonomous.</note>
+                  <note>A satire which "rates the authorities soundly"-Madan.</note>
+                  <note>The words "her unjust .. loyalists nominated." are bracketed together on title page. .</note>
+                  <note>The last three pages contain a list of loyalists expelled from various Oxford colleges.</note>
+                  <note>Annotation on Thomason copy: "May 15".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>University of Oxford --  History --  17th century.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Humor --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:116315:1" rendition="simple:additions"/>
+            <p>Oxonii Lachrymae, <hi>Rachell weeping for her Children.</hi> Or, a Patheticall RELATION OF The preſent Grievances of the late fa<g ref="char:EOLhyphen"/>mous Univerſity of OXFORD.</p>
+            <p>Where<g ref="char:EOLhyphen"/>in you have
+<list>
+                  <item>
+                     <hi>Her unjuſt ſufferings manifeſted.</hi>
+                  </item>
+                  <item>
+                     <hi>The Authours of Her miſeries Characteriſed. And.</hi>
+                  </item>
+                  <item>
+                     <hi>The ejected Loyaliſts nominated.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>Preſented in a Letter from an <hi>Oxford</hi> Schollar (not yet exil'd) to his friend a Gentleman of <hi>Grayes-Inne.</hi>
+            </p>
+            <p>LONDON, <hi>Printed in the year,</hi> 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:116315:2"/>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>VVHen the <hi>Roman Senate</hi> held conſultation how to rid their <hi>Country</hi> of the ſubtil <hi>Carthaginian,</hi> that had fretted like a canker the beauty of <hi>Italy; Fabius</hi> upon the motion to make war in <hi>Africk,</hi> thought it agreeable to <hi>nature,</hi> firſt to defend their <hi>own,</hi> before they attempted other mens <hi>poſſeſſions;</hi> when <hi>Peace</hi> is eſtabliſht in <hi>Italy,</hi> then let <hi>War</hi> be ſet on foot in <hi>Africk;</hi> Firſt let us be without <hi>fear</hi> our <hi>ſelves,</hi> ere we go about to terrifie others: This ſage advice <hi>Scipio</hi> could by no meanes digeſt; but vigorouſly purſu'd thoſe hot-brain re<g ref="char:EOLhyphen"/>ſolutions which vain-glory and ambition had ſuggeſted unto him; ever oppo<g ref="char:EOLhyphen"/>ſing his <hi>Motto</hi> to the <hi>Senators</hi> arguments; <hi>Plas animi eſt inferentiquam propul<g ref="char:EOLhyphen"/>ſants injuriam.</hi> Such <hi>Scipio-like Hero's</hi> our <hi>Land</hi> affords, whoſe implacable malice to their <hi>Neighours</hi> hath over-topp'd the <hi>affection</hi> they owe unto <hi>them<g ref="char:EOLhyphen"/>ſelves,</hi> and made them neglect the procurement of their own ſafetye to effect the <hi>utter ruine</hi> of their <hi>brethren.</hi> Of this ſort thoſe petty <hi>Nimrods,</hi> which ſtile themſelves our <hi>Reformers,</hi> are not the meaneſt; who tranſported with <hi>fury</hi> (miſtaken by the vulgar for <hi>holy zeale</hi>) have lately endeavoured to diſ-inherit the <hi>Muſes,</hi> and brought an <hi>odium</hi> upon our <hi>chaſt Mother,</hi> for that ſhe ſome<g ref="char:EOLhyphen"/>times foſtered ſuch ſpurious <hi>Bratis.</hi> Theſe like <hi>Eroſtratus,</hi> muſt needs have their names recorded to <hi>poſterity,</hi> though purchas'd by the <hi>deſtruction.</hi> of <hi>Church</hi> or <hi>
+                  <g ref="char:V">Ʋ</g>niverſity.</hi> They meaſure every mans cloth by their own yard, and becauſe the <hi>Loyaliſts</hi> conſcience is not ſo cheverill as to yeild unto their curſed <hi>Propoſals,</hi> they have a <hi>Minando minnemur</hi> wherewith to curd him; and if he remaine obſtinate (as they terme it) a <hi>Reſolved upon the Queſtion</hi> to ca<g ref="char:EOLhyphen"/>ſhire him; This is the <hi>Method</hi> wherein they have moulded their <hi>helliſh de<g ref="char:EOLhyphen"/>ſignes,</hi> and proceeded <hi>without fear or wit,</hi> to the raiſing of what ever was <hi>Re<g ref="char:EOLhyphen"/>ligious</hi> or <hi>Learned</hi> amongſt us: onely this we ſee ſome few <hi>Pillars</hi> (by indul<g ref="char:EOLhyphen"/>gence) remaining, which yet are made uſeleſs for <hi>ſupportation,</hi> and ſtand as <hi>bewailed Monuments</hi> of a once <hi>ſtately Fabrick;</hi> nor can we think they will be of long continuance, ſithence their <hi>White Boyes</hi> flock hither a pace with Spades and Mattocks of ſilver to clear the <hi>Foundation.</hi> Oh what a glorious <hi>building</hi> are they now erecting I Yes ſure, an<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ther <hi>Babel</hi> for the honour of their <hi>Dignities,</hi> wherein nothing but <hi>T<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he</hi> and <hi>Bohu,</hi> is like to have its habita<g ref="char:EOLhyphen"/>tion.</p>
+            <p>I have not an expreſſion adequate to their iniquity, nor can I refer you to a Parralell of their villany; for indeed, the <hi>honour</hi> of our <hi>Reformers</hi> depen<g ref="char:EOLhyphen"/>ding upon the <hi>Superlative degree,</hi> hath ſought out <hi>Projects</hi> beyond equality.</p>
+            <p>By what I have now hinted, you may partly gueſſe at our deſolations ſince your departure, and how unanimouſly we have adhered to our juſt and
+<pb n="3" facs="tcp:116315:2"/>well grounded <hi>Principles</hi> you are not ignorant. The vertue we make uſe of in qualifying our affliction, may happily one day ſerve to moderate our feli<g ref="char:EOLhyphen"/>cities. However, I am moſt aſſured, we ſhall remain conſtant even amongſt <hi>publick ruins,</hi> and that <hi>Fortune</hi> cannot bereave us, of what ſhe never could be<g ref="char:EOLhyphen"/>queath unto us. But I have deteined you too long from what you were pleaſ'd to requeſt of me: to wit, an account of thoſe which could not be frighted into <hi>Diſloyalty,</hi> and have ſuffer'd baniſhment for this their <hi>reſolution.</hi> I ſhall therefore by the way point our unto you the <hi>comicall Actors</hi> of our Tragedy, and in fine referre you to the <hi>Catalogue.</hi>
+            </p>
+            <p>
+               <hi>Firſt</hi> then, The <hi>Leader</hi> of this <hi>joviall Crew</hi> is Mr. <hi>Reynolds,</hi> the <hi>mock Vice-Chancellor,</hi> and in <hi>him</hi> you may behold into what extremities <hi>Ambition</hi> can drive her thirſty <hi>Favourites,</hi> by ſuppreſſing the better faculties of the ſoul, and ſetting ſuch unbridled motions on foot as carry men headlong into moſt deſperate attempts. This is that <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> which not long ſince hung in <hi>aqui<g ref="char:EOLhyphen"/>librio,</hi> and waited only for a <hi>grain of ſucceſſe</hi> to turn the ſcales. Loath he was to nauſeat his reputation by actions, ſo much repugnant to his profeſſions, till baited with <hi>Cheynell's</hi> execration of his deteſtable <hi>neutrality,</hi> and <hi>Pem-brook</hi> his proffer of the <hi>Imperiall Chaire.</hi> So thus being centred, he reſts in quiet, and proteſts (if <hi>Epiſcopacy</hi> revive not) to remain immovable; herein much reſembling the <hi>Lyon,</hi> which being found by hunters in a Cave, will ra<g ref="char:EOLhyphen"/>ther dye in the place then quit it, for ſhame that he was caught in ſo diſ<g ref="char:EOLhyphen"/>gracefull a <hi>Refuge,</hi> and therefore his <hi>property</hi> is thus expreft, <hi>Ingredieudo coecus, exeundo protervus.</hi> Next him in <hi>dignity</hi> comes Sir <hi>Nathaniel Brent;</hi> a pre<g ref="char:EOLhyphen"/>cious <hi>Gentleman</hi> indeed, of incomparable valour, that would adventure to to lift the Moon out of the ſpheare, if ſhe ſhould continue in it five weeks without changing. Me thinks he acts his part like wavering <hi>Varro,</hi> tranſacting buſineſſe for <hi>Pompey</hi> in <hi>Spaine,</hi> who quickly un-loaded himſelf of that <hi>fidelity</hi> he vowed unto himſelf, ſo ſoon as he had Intelligence that <hi>Caeſar</hi> was maſter of the field: Or juſt like the <hi>Weather-Cock,</hi> whereof there is no other uſe, but <hi>indicare regnantem.</hi> You may eaſily compute the <hi>riſe</hi> of his <hi>Apoſtacy,</hi> by the <hi>down-fall</hi> of the <hi>High Commiſſion Court,</hi> and his <hi>Great Maſter,</hi> and thus <hi>Ex corruptione <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> peſſimum generatur.</hi> His <hi>Crown,</hi> ſome think, is very well prepared to ma<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Bowling-Alley;</hi> but for my part, (with ſubmiſſion to the ju<g ref="char:EOLhyphen"/>dicious) I conceive, 'tis much better fitted for a <hi>Kettle-Drum,</hi> to incite <hi>Captain Cheynell</hi> and his <hi>Curaſiers,</hi> when eminent <hi>deſignes</hi> do call them upon <hi>duty;</hi> For if we believe that greateſt ſounds proceed from vacuity, I know no im<g ref="char:EOLhyphen"/>pediment why it may not be ſuper-excellent for this ſervice. Not farre behind him appears Dr. <hi>Wilkinſon,</hi> or the <hi>two legged Crow,</hi> A great <hi>Coxcomicall Nin<g ref="char:EOLhyphen"/>ny,</hi> as fit to regulate an <hi>
+                  <g ref="char:V">Ʋ</g>niverſity,</hi> as able to rule his <hi>Wife.</hi> Yea, this is her
+<pb n="4" facs="tcp:116315:3"/>
+               <hi>principall chamber-Clerk.</hi> who for ſureneſſe ever duplicates his fiat, <hi>Amen Amen, Kare.</hi> And no mervell hee's ſo ready to perform double duty, ſithence ſhe rewards him ſo fally with <hi>plumb-pottage,</hi> and <hi>Sugar-ſops.</hi> You would think this <hi>Athenian Owle,</hi> another <hi>Ariſtotle</hi> if you ſhould face him; but <hi>Barba Phi<g ref="char:EOLhyphen"/>loſophum</hi> is very fallible, and many (you know) have more haire then wit. He was better imploy'd when he epitomized <hi>Zaharell</hi> at length, and taught him to contradict himſelf in <hi>Manuſcript.</hi> At this <hi>Gander's</hi> heels followeth a <hi>Wor<g ref="char:EOLhyphen"/>thy</hi> of fewer yeares, but more Hypocriſie, Mr. <hi>Harris of Hamwell.</hi> And in him you may ſee <hi>avarice</hi> accompanying the <hi>covtteous</hi> to his grave. He holds Pluralities incompat<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ble in another, but hath a trick to preſerve them in him<g ref="char:EOLhyphen"/>ſelf. <hi>Benifi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es</hi> he poſſeſſeth well nigh a dozen, but alas! good man, (take his Apology to<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>) he receives not above half the profits, which makes him envy <hi>Grim<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ool<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> that <hi>Argus of Braſen</hi>-Noſe) his happineſſe, who tells him, 'tis true, he has title but to one <hi>Perſonage</hi> though he enjoyes the <hi>benefits</hi> of many. After him comes <hi>hog-rubber Rogers</hi> creeping. This is <hi>Golledge</hi> the <hi>Tub-man's Corporall,</hi> or the <hi>New-Inne Scar-crow,</hi> the very man that was in <hi>F<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e</hi> with his <hi>Phyſician</hi> for granting him a <hi>Diſpenſation</hi> from preaching at St. <hi>Maries.</hi> But oh the Soueraign operation of a Sanctified <hi>Canon-ſhip,</hi> which has unty'd his tongue, and makes him (once a quarter) confute <hi>Bellarmin</hi> with admirable <hi>Stoliditie.</hi> Yea, this is <hi>mine Hoſt Gaius,</hi> the <hi>ſpirituall Babboon,</hi> good for no<g ref="char:EOLhyphen"/>thing we can diſcover, but to be <hi>baited,</hi> that his <hi>Swoat</hi> may ſerve for <hi>Cundle-greaſe</hi> to light the <hi>black Junto</hi> in Sir <hi>Nathaniel's Parlour.</hi> Hard at this <hi>Simple<g ref="char:EOLhyphen"/>ton's</hi> heels marcheth a <hi>Zealot,</hi> (as you may diſcern by his <hi>flaming noſe,</hi>) the thrice noble <hi>Franke Cheynell.</hi> This, this is the man of mettell, ſteel to the back, <hi>Dictator perpetuus</hi> the <hi>Chair-man virtually</hi> at every <hi>Seſſion,</hi> whoſe <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> goes for <hi>canonicall,</hi> and ſtrikes <hi>his Vice-Chancellour-ſhip</hi> as mute as a marble <hi>Niobe,</hi> A <hi>mad-ſparke,</hi> indeed, who (not long agoe) was whipt into his wits, and therefore thinks to perſecute the <hi>honeſt party</hi> into <hi>obedience,</hi> to dance his <hi>Galliard.</hi> This is <hi>Michael Oldſworth,</hi> elder brother <hi>pro tempore,</hi> which led the <hi>Lord Wiſe-acre</hi> by the bill <hi>ad placitum,</hi> and read an <hi>Orthography Lecture</hi> to his <hi>unworthineſſe</hi> in <hi>Wadi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>am Celledge H<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll.</hi> He would fain be ſtiled <hi>Malleus H<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>reticorum,</hi> the <hi>Orthodox Divine</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> who for a while diſorg'd whole <hi>Anathemat's</hi> againſt the <hi>Independent Vermin,</hi> as he terms them<g ref="char:punc">▪</g> but now the <hi>Tortes</hi> retreats into his ſhell; Oh how labours he to ſtay their hands, with a preſent, and ſtop the<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r mouths with a <hi>Capon-leg!</hi> But ſurely Mr. <hi>Kelſay</hi> and his <hi>Creatures</hi> are more <hi>ſpirituall</hi> then to be allured with ſuch <hi>carnall temptati<g ref="char:EOLhyphen"/>ons.</hi> In brief, this is the grand <hi>Archimedes,</hi> (who if ſucceſſe ſhould ſecond his deſignes) would ſhew you in a trice the <hi>Antipodes</hi> of <hi>Church</hi> and <hi>State.</hi> Of this holy <hi>San<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>drim Rabbi, Wilkinſon</hi> (now Vice (<hi>alias</hi> vicious) Preſidet of
+<pb n="5" facs="tcp:116315:3"/>
+               <hi>Magdalen</hi> Colledge) brings up the Reare. This is the <hi>quondum dormouſe</hi> ſneaking under <hi>Pauls,</hi> now <hi>Cheynell's ſtout ſecond</hi> in every Combate. He can willingly <hi>diſpenſe</hi> with a <hi>cap</hi> or <hi>congey</hi> to gaine a <hi>Proſelite,</hi> and affects <hi>treading ſoftly</hi> to procure an opin<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>on of cordiall integrity: But, <hi>Antipater intus pur<g ref="char:EOLhyphen"/>puratus,</hi> his <hi>tumours</hi> and <hi>ebullitions</hi> are ſound arguments of <hi>rottenneſſe.</hi> Nor can we much admire that he is ſo viperous to our <hi>common Mother,</hi> for that he w<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s lately ſo <hi>unnaturall</hi> to his dying <hi>Father;</hi> who dehorting him from theſe unjuſt and malicious practiſes, had this anſwer with indignation return'd; <hi>Sir, alas, you are in your dotage and muſt be pardon'd.</hi> This is one amongſt the ſix <hi>Apoſtles</hi> which preſſeth our <hi>Academicks</hi> to lay aſide their <hi>parts and reaſon,</hi> where himſelf (in St. <hi>Maries</hi>) afforded us a <hi>pattern;</hi> who having provided a diſcourſe upon this text (1 Tim. 2.4.) <hi>Who would have all men be ſaved and come to the knowledge of the truth;</hi> for his more methodicall proceeding, did thus divide it, <hi>viz.</hi> into an <hi>univerſall Affirmative,</hi> and a <hi>particular Negative.</hi> A piece of <hi>Logick,</hi> which (I conceive) would have ſounded harſhly, but that at preſent it is very much in <hi>faſhion.</hi>
+            </p>
+            <p>Now <hi>Sir,</hi> it being <hi>inconſiſtent</hi> with the <hi>honour</hi> of thoſe <hi>Grandees</hi> to go with<g ref="char:EOLhyphen"/>out <hi>Attendants,</hi> I ſhall therefore add their <hi>Appeadies</hi> or <hi>chief Gentlemen to the train,</hi> and they are two; the one is <hi>Langley,</hi> a <hi>Novice,</hi>
+               <note place="margin">Oh w<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> canno<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> move whee<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> this <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> &amp;c.</note> run ſo giddy in his <hi>wheels,</hi> that he uſually ſtuffs his <hi>Pulpit-peece</hi> with rare <hi>hyperbolicall Non-ſence;</hi> and this, that we may the more admire him, and indeed we doe. But if further you ſhould trace his ſteps into his haunts, and there ſee him dance the <hi>Cana<g ref="char:EOLhyphen"/>ries,</hi> or cut his <hi>Capers</hi> amongſt his <hi>Doxies,</hi> you would ſtraitwaies conclude him of the <hi>Pembrochian-line,</hi> or (which comes neare it) that moſt of what he is, hath ſunke into his heels. The other is <hi>Corniſh,</hi> the ſame that diſturb'd the memorable <hi>Diſputations</hi> at the <hi>Scruple Office</hi> in St. <hi>Peters Oxon;</hi> and for this he is elected <hi>Cannon</hi> of <hi>Chriſt-Church,</hi> and <hi>Probationer-Reformer.</hi> In truth, a worthy <hi>tautologicall D<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>vine,</hi> witneſſe his <hi>remarkable expreſſion</hi> of <hi>Sa<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pſon</hi> his deſtroying the <hi>Philiſtins. And he pulled the Houſe down upon all and ſome, and ſome and all, and all and ſome together.</hi> I have ſome thing elſe to ſay concerning him, but I forbeare, becauſe I am informed, Mrs. <hi>Carniſh</hi> (to ſay no more) is a <hi>Chriſtian.</hi>
+            </p>
+            <p>Thus have I preſented our <hi>Gallants</hi> to your <hi>view,</hi> It remains therefore that I ſatisfie your deſires in the laſt particular, which (in order) I have here ſet down for your peruſall.</p>
+            <pb n="4" facs="tcp:116315:4" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="5" facs="tcp:116315:4" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="6" facs="tcp:116315:5"/>
+            <list>
+               <head>Loyalliſts expell'd out of Chriſt Church Colledge. Magdalen Colledge.</head>
+               <item>Dr. <hi>Fell,</hi> Deane,</item>
+               <item>Dr. <hi>Hammond</hi> Canon.</item>
+               <item>Dr. <hi>Payne</hi> Canon.</item>
+               <item>Dr. <hi>Morley</hi> Canon.</item>
+               <item>Dr. <hi>Iles</hi> Canon.</item>
+               <item>Dr. <hi>Gardiner</hi> Canon.</item>
+               <item>Dr. <hi>Mayne.</hi>
+               </item>
+               <item>Mr, <hi>Terrent.</hi>
+               </item>
+               <item>Mr. <hi>Howe</hi>
+               </item>
+               <item>Mr. <hi>Dorell</hi>
+               </item>
+               <item>Mr. <hi>Townſan</hi>
+               </item>
+               <item>Mr. <hi>Aleſtree</hi>
+               </item>
+               <item>Mr. <hi>Carick</hi>
+               </item>
+               <item>Mr. <hi>Wareing,</hi> junior</item>
+               <item>Mr. <hi>Staninough.</hi>
+               </item>
+               <item>Mr. <hi>Dolbin</hi>
+               </item>
+               <item>Mr. <hi>Hill</hi>
+               </item>
+               <item>Mr <hi>Smith</hi>
+               </item>
+               <item>Mr <hi>Hilman</hi>
+               </item>
+               <item>Mr <hi>Hill</hi> jun.</item>
+               <item>Mr <hi>Whitehall</hi>
+               </item>
+               <item>Mr <hi>Jackſon</hi>
+               </item>
+               <item>M<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Lowther</hi>
+               </item>
+               <item>Mr <hi>I. Luellin</hi>
+               </item>
+               <item>Mr <hi>
+                     <g ref="char:V">Ʋ</g>nderood</hi>
+               </item>
+               <item>Mr <hi>Byans</hi>
+               </item>
+               <item>Mr <hi>Norgate</hi>
+               </item>
+               <item>Mr <hi>Conopeus</hi>
+               </item>
+               <item>Mr <hi>Weaver</hi>
+               </item>
+               <item>Mr <hi>Littleton</hi>
+               </item>
+               <item>Mr <hi>Nicholas</hi>
+               </item>
+               <item>Mr <hi>Love</hi>
+               </item>
+               <item>Mr <hi>Caryll</hi>
+               </item>
+               <item>Mr <hi>Heath</hi>
+               </item>
+               <item>Dr <hi>Oliver</hi> Preſident.</item>
+               <item>Mr <hi>Foreman</hi>
+               </item>
+               <item>Mr <hi>Lawe</hi>
+               </item>
+               <item>Mr <hi>Drope</hi>
+               </item>
+               <item>Mr <hi>Taylour</hi>
+               </item>
+               <item>Mr <hi>Clutterbook</hi>
+               </item>
+               <item>Mr <hi>Pierce</hi>
+               </item>
+               <item>Mr <hi>Holding</hi>
+               </item>
+               <item>Mr <hi>Chyles</hi>
+               </item>
+               <item>Mr <hi>Drake</hi>
+               </item>
+               <item>Mr <hi>Browne</hi>
+               </item>
+               <item>Mr <hi>Nicholſon</hi>
+               </item>
+               <item>Mr <hi>Serle</hi>
+               </item>
+               <item>Mr <hi>Yerbury</hi>
+               </item>
+               <item>Mr <hi>Exton</hi>
+               </item>
+               <item>Mr <hi>Horne</hi>
+               </item>
+               <item>Mr <hi>Alexander</hi>
+               </item>
+               <item>
+                  <hi>Mr Duncomb</hi> Steward</item>
+               <item>
+                  <hi>Mr</hi> Slade <hi>Cook</hi>
+               </item>
+               <item>
+                  <hi>Mr Stonehouſe</hi>
+               </item>
+               <item>
+                  <hi>Mr Nurſe</hi>
+               </item>
+               <item>
+                  <hi>Mr Worthington</hi>
+               </item>
+               <item>
+                  <hi>Mr Coppinger</hi>
+               </item>
+               <item>
+                  <hi>Mr Philips</hi>
+               </item>
+               <item>
+                  <hi>Mr Bartlet</hi>
+               </item>
+               <item>
+                  <hi>Mr Jones</hi>
+               </item>
+               <item>
+                  <hi>Mr Drope</hi> jun.</item>
+               <item>
+                  <hi>Mr Collis</hi>
+               </item>
+               <item>Mr <hi>Drury</hi>
+               </item>
+               <item>
+                  <hi>Mr Sympſon</hi>
+               </item>
+               <item>
+                  <hi>Mr Duſton</hi>
+               </item>
+               <item>
+                  <hi>Mr Langton</hi>
+               </item>
+               <item>
+                  <hi>Mr Clay</hi>
+               </item>
+               <item>
+                  <hi>Mr Diggle</hi>
+               </item>
+               <item>
+                  <hi>Mr Harris</hi>
+               </item>
+               <item>
+                  <hi>Mr Floud</hi>
+               </item>
+               <item>
+                  <hi>Mr Dale</hi> Sen.</item>
+               <item>
+                  <hi>Mr Pennington</hi>
+               </item>
+               <item>
+                  <hi>Mr Cletherow</hi>
+               </item>
+               <item>
+                  <hi>Mr Palmer</hi>
+               </item>
+               <item>
+                  <hi>Mr Oates</hi>
+               </item>
+               <item>
+                  <hi>Mr Bayley</hi>
+               </item>
+               <item>
+                  <hi>Mr Web</hi>
+               </item>
+               <item>
+                  <hi>Mr Hobs</hi>
+               </item>
+               <item>
+                  <hi>Mr Bowles</hi>
+               </item>
+               <item>
+                  <hi>Mr White</hi>
+               </item>
+               <item>
+                  <hi>Mr Eman</hi>
+               </item>
+               <item>
+                  <hi>Mr Heath</hi>
+               </item>
+               <item>
+                  <hi>Mr Jeanes</hi> Butler</item>
+               <item>Mr <hi>Taylour</hi> Butler</item>
+               <item>Mr <hi>Tonchin</hi> Butler</item>
+               <item>Mr <hi>Hearn</hi> Cook</item>
+               <item>Mr <hi>Chibnall</hi>
+               </item>
+               <item>Mr <hi>Wake</hi>
+               </item>
+               <item>Mr <hi>Drope</hi> natu min.</item>
+            </list>
+            <list>
+               <head>Corpus Chriſti Colledge.</head>
+               <item>Dr <hi>Newlin</hi> Preſident.</item>
+               <item>Mr <hi>Stratford</hi>
+               </item>
+               <item>Mr <hi>Sanderſon</hi>
+               </item>
+               <item>Mr <hi>Clarkſon</hi>
+               </item>
+               <item>Mr <hi>Shute</hi>
+               </item>
+               <item>Mr <hi>Deane</hi>
+               </item>
+               <item>Mr <hi>Betts</hi>
+               </item>
+               <item>Mr <hi>Halſted</hi>
+               </item>
+               <item>Mr <hi>Kind</hi>
+               </item>
+               <item>Mr <hi>Jackſon</hi>
+               </item>
+               <item>Mr <hi>Clarke</hi>
+               </item>
+               <item>Mr <hi>Teagle</hi>
+               </item>
+               <item>Mr <hi>Metford</hi>
+               </item>
+               <pb n="7" facs="tcp:116315:5"/>
+               <item>Mr <hi>Stapleton</hi>
+               </item>
+               <item>Mr <hi>Glover</hi>
+               </item>
+               <item>Mr <hi>Stamp</hi>
+               </item>
+               <item>Mr <hi>Immings</hi>
+               </item>
+               <item>Mr <hi>Parker</hi>
+               </item>
+               <item>Mr <hi>Felman</hi>
+               </item>
+               <item>Mr <hi>Newlin</hi> Bible Clerk.</item>
+               <item>Mr <hi>Seamer</hi> Manciple.</item>
+               <item>Mr <hi>Hill</hi> Cook.</item>
+               <item>Mr <hi>Price</hi> Cook.</item>
+               <item>Mr <hi>Parne</hi> Butler.</item>
+               <item>Mr <hi>Bowden</hi> Porter.</item>
+               <item>Mr <hi>Speeding</hi>
+               </item>
+               <item>Mr <hi>Wrench</hi>
+               </item>
+               <item>Mr <hi>Barker</hi>
+               </item>
+               <item>Mr <hi>Dutton</hi>
+               </item>
+               <item>Mr <hi>Heywood</hi>
+               </item>
+               <item>Mr <hi>Samwayes</hi>
+               </item>
+               <item>Mr <hi>Eales</hi>
+               </item>
+               <item>Mr <hi>Chidley</hi>
+               </item>
+               <item>Mr <hi>Sucton</hi>
+               </item>
+               <item>Mr <hi>Lydall</hi>
+               </item>
+            </list>
+            <list>
+               <head>All Soules Colledge:</head>
+               <item>Dr <hi>Sheldon</hi> Warden</item>
+               <item>Mr <hi>Barker</hi>
+               </item>
+               <item>Mr <hi>Fiſher</hi>
+               </item>
+               <item>Mr <hi>Midleton</hi>
+               </item>
+               <item>Mr <hi>Boham</hi>
+               </item>
+               <item>Mr <hi>Newman</hi>
+               </item>
+               <item>Mr <hi>Dorell</hi>
+               </item>
+               <item>Mr <hi>George</hi>
+               </item>
+               <item>Mr <hi>Smith</hi>
+               </item>
+               <item>Mr <hi>Baldwin</hi>
+               </item>
+               <item>Mr <hi>James</hi>
+               </item>
+               <item>Mr <hi>Birkenhead</hi>
+               </item>
+               <item>Mr <hi>Napier</hi>
+               </item>
+               <item>Mr. <hi>Crofts</hi>
+               </item>
+               <item>Mr <hi>Hollingsworth</hi> Butler.</item>
+               <item>Mr <hi>Griffin</hi> Cook.</item>
+            </list>
+            <list>
+               <head>St. Johns Colledge.</head>
+               <item>Dr. <hi>Bayley Preſident</hi>
+               </item>
+               <item>Mr. <hi>Croocher</hi>
+               </item>
+               <item>Mr. <hi>Creed</hi>
+               </item>
+               <item>Mr. <hi>Wallwyn</hi>
+               </item>
+               <item>Mr. <hi>Tilſley</hi>
+               </item>
+               <item>Mr. <hi>Goad</hi>
+               </item>
+               <item>Mr. <hi>Winard</hi>
+               </item>
+               <item>Mr. <hi>Hitchins</hi>
+               </item>
+               <item>Mr. <hi>Slater</hi>
+               </item>
+               <item>Mr. <hi>Pemble</hi>
+               </item>
+               <item>Mr. <hi>Osbaſton</hi>
+               </item>
+               <item>Mr. <hi>Taylor</hi> Butler.</item>
+               <item>Mr. <hi>Ray</hi> Butler.</item>
+               <item>Dr. <hi>Edwards</hi>
+               </item>
+               <item>Dr. <hi>Wild</hi>
+               </item>
+               <item>Mr. <hi>Miller</hi>
+               </item>
+               <item>Mr. <hi>Jennings</hi>
+               </item>
+               <item>Mr. <hi>Aſton</hi>
+               </item>
+               <item>Mr. <hi>Jennings,</hi> jun.</item>
+               <item>Mr. <hi>Mewes</hi>
+               </item>
+               <item>Mr. <hi>Buckeidge.</hi>
+               </item>
+            </list>
+            <list>
+               <head>New Colledge.</head>
+               <item>Mr. <hi>Gardiner</hi>
+               </item>
+               <item>Mr. <hi>Lucas</hi>
+               </item>
+               <item>Mr. <hi>Barker</hi>
+               </item>
+               <item>Mr. <hi>Rowlondſon.</hi>
+               </item>
+               <item>Mr. <hi>Beeſley.</hi>
+               </item>
+               <item>Mr. <hi>Baynham</hi>
+               </item>
+               <item>Mr. <hi>Dummer</hi>
+               </item>
+               <item>Mr. <hi>Holloway</hi>
+               </item>
+               <item>Mr. <hi>Blague</hi>
+               </item>
+               <item>Mr. <hi>Coles</hi>
+               </item>
+               <item>Mr. <hi>Hobbs</hi>
+               </item>
+               <item>Mr. <hi>Price</hi>
+               </item>
+               <item>Mr. <hi>Marſhall</hi>
+               </item>
+               <item>Mr. <hi>Gillingham</hi>
+               </item>
+               <item>Mr. <hi>Bowman</hi>
+               </item>
+               <item>Mr. <hi>Turpin</hi>
+               </item>
+               <item>Mr. <hi>Withers</hi>
+               </item>
+               <item>Mr. <hi>Complin</hi>
+               </item>
+               <item>Mr. <hi>Robinſon</hi>
+               </item>
+               <item>Mr. <hi>Alexander</hi>
+               </item>
+               <item>Mr. <hi>Aileworth.</hi>
+               </item>
+            </list>
+            <list>
+               <head>Exceſter Colledge.</head>
+               <item>Mr. <hi>Tozer</hi>
+               </item>
+               <item>Mr. <hi>Berry</hi>
+               </item>
+               <item>Mr. <hi>Bidgood</hi>
+               </item>
+               <item>Mr. <hi>Polewheele</hi>
+               </item>
+               <item>Mr. <hi>Poindexter</hi>
+               </item>
+               <item>Mr. <hi>Barbon</hi>
+               </item>
+               <item>Mr. <hi>Teage</hi>
+               </item>
+               <item>Mr. <hi>Webber</hi>
+               </item>
+               <item>Mr. <hi>Handing.</hi> Cook:</item>
+            </list>
+            <list>
+               <head>Brazen Noſe Colledge.</head>
+               <item>Mr. <hi>Eaton</hi>
+               </item>
+               <item>Mr. <hi>
+                     <g ref="char:V">Ʋ</g>de</hi>
+               </item>
+               <item>Mr. <hi>Rowſon</hi>
+               </item>
+               <item>Mr. <hi>Burges</hi>
+               </item>
+               <item>Mr. <hi>King</hi>
+               </item>
+               <item>Mr. <hi>Roberts</hi>
+               </item>
+               <item>Mr. <hi>Byram</hi>
+               </item>
+               <item>
+                  <hi>Mr. Church</hi>
+               </item>
+               <item>
+                  <hi>Mr. Panter.</hi>
+               </item>
+            </list>
+            <list>
+               <head>Queenes Colledge.</head>
+               <item>
+                  <hi>Mr. Pearſon.</hi>
+               </item>
+               <item>
+                  <hi>Mr. Gibſon</hi>
+               </item>
+               <item>
+                  <hi>Mr. Pitt</hi>
+               </item>
+               <item>
+                  <hi>Mr. Musgrave</hi>
+               </item>
+               <pb n="8" facs="tcp:116315:6"/>
+               <item>
+                  <hi>Mr. Buchanan.</hi>
+               </item>
+               <item>
+                  <hi>Mr. Tarne</hi>
+               </item>
+               <item>
+                  <hi>Mr. Wilkinſon,</hi> ſince A<g ref="char:EOLhyphen"/>poſtatiz<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d.</item>
+               <item>
+                  <hi>Mr. Fa<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rer</hi>
+               </item>
+               <item>
+                  <hi>Mr. Brathwaite</hi>
+               </item>
+               <item>
+                  <hi>Mr. Grigg</hi>
+               </item>
+               <item>
+                  <hi>Mr. Fletcher.</hi>
+               </item>
+            </list>
+            <list>
+               <head>Univerſity Colledge.</head>
+               <item>Dr. <hi>Walker,</hi> Maſter.</item>
+               <item>
+                  <hi>Mr. Walker</hi>
+               </item>
+               <item>
+                  <hi>Mr. Watkins</hi>
+               </item>
+               <item>
+                  <hi>Mr. Silveſter</hi>
+               </item>
+               <item>
+                  <hi>Mr. Stone.</hi>
+               </item>
+            </list>
+            <list>
+               <head>Oriell Colledge.</head>
+               <item>
+                  <hi>Mr. Duncomh.</hi>
+               </item>
+               <item>
+                  <hi>Mr. Sanders.</hi>
+               </item>
+               <item>
+                  <hi>Mr. Chamberlane</hi>
+               </item>
+               <item>
+                  <hi>Mr. Shelden</hi>
+               </item>
+               <item>
+                  <hi>Mr Bonch.</hi>
+               </item>
+            </list>
+            <list>
+               <head>Wadham Colledge.</head>
+               <item>Dr. <hi>Pites Warden.</hi>
+               </item>
+               <item>
+                  <hi>Mr. Pyne</hi>
+               </item>
+               <item>Dr. <hi>Sugg</hi>
+               </item>
+               <item>
+                  <hi>Mr. Strangewayes</hi>
+               </item>
+               <item>
+                  <hi>Mr. Atkins</hi>
+               </item>
+               <item>
+                  <hi>Mr. Michaleſon</hi>
+               </item>
+               <item>
+                  <hi>Mr. Hues.</hi>
+               </item>
+               <item>
+                  <hi>Mr. Thomas</hi>
+               </item>
+               <item>
+                  <hi>Mr. Daker</hi>
+               </item>
+            </list>
+            <list>
+               <head>Merton Colledge.</head>
+               <item>
+                  <hi>Mr. Owen.</hi>
+               </item>
+               <item>
+                  <hi>Mr. Broad.</hi>
+               </item>
+               <item>
+                  <hi>Mr. Lee.</hi>
+               </item>
+               <item>Dr <hi>Turner</hi>
+               </item>
+               <item>Mr <hi>Graves</hi>
+               </item>
+            </list>
+            <list>
+               <head>Trinity Colledge.</head>
+               <item>Dr <hi>Potter</hi> Preſident.</item>
+               <item>Mr <hi>Radford</hi>
+               </item>
+               <item>Mr <hi>Skinner</hi>
+               </item>
+               <item>Mr Bainger</item>
+               <item>Mr <hi>Poundell</hi>
+               </item>
+               <item>Mr <hi>Ettrick.</hi>
+               </item>
+            </list>
+            <list>
+               <head>Jeſus Colledge</head>
+               <item>Dr <hi>Manſell</hi> Principall.</item>
+               <item>Mr <hi>Flower</hi>
+               </item>
+               <item>Mr <hi>Hues</hi>
+               </item>
+               <item>Mr <hi>Evans</hi>
+               </item>
+               <item>Mr <hi>Wilkins</hi>
+               </item>
+               <item>Mr <hi>Price</hi>
+               </item>
+               <item>Mr <hi>Penry</hi>
+               </item>
+               <item>Mr <hi>Baſſet</hi>
+               </item>
+            </list>
+            <list>
+               <head>Balioll Coledge.</head>
+               <item>Dr <hi>Lawrence</hi> Maſter, ba<g ref="char:EOLhyphen"/>niſhed himſelf by reſig<g ref="char:EOLhyphen"/>nation, for feare of expul<g ref="char:EOLhyphen"/>ſion.</item>
+               <item>Mr <hi>Fielding</hi>
+               </item>
+               <item>Mr <hi>Clement</hi>
+               </item>
+            </list>
+            <list>
+               <head>Pembroke Colledge.</head>
+               <item>Mr <hi>Whittack</hi> Maſter.</item>
+               <item>Mr <hi>Bowles</hi>
+               </item>
+            </list>
+            <list>
+               <head>Lincolne Colledge.</head>
+               <item>Mr <hi>Webberley</hi>
+               </item>
+            </list>
+            <p>To conclude, ſince you are ſo deſirous to underſtand the <hi>Occurrences</hi> a<g ref="char:EOLhyphen"/>mongſt us I ſhall take every opportunity to ſatisfie your requeſt, and to this end ſhall forthwith ſend you a <hi>Cutalogue</hi> of thoſe whoſe <hi>pollicy</hi> (as they terme it) hath ſhuffled out their <hi>Loyalty,</hi> and induc'd them to keep their neſts by <hi>deteſtable complyance,</hi> and in the interin ſubſcribe my ſelf</p>
+            <closer>
+               <signed>Yours to ſerve you. <hi>Philanax Anonononi<g ref="char:punc">▪</g>
+                  </hi>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
